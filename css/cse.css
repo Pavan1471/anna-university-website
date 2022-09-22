@@ -1,0 +1,47 @@
+
+h1{
+    font-style: oblique;
+    background-color:black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+#home{
+    font-style: oblique;
+    background-color:black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+body{
+    background-color: lightgray;
+}
+h2{
+    background-color: aqua;
+    border-radius: 30px;
+}
+.sem{
+    background-color: lightsalmon;
+    border-radius: 20px;
+}
+h3{
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    text-underline-offset: none;
+    color: black;
+}
